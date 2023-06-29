@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Vue-deploy Example',
+    title: '6666',
     theme: "@vuepress/theme-blog",
     base: "/vuepress-deploy-demo-target/",
     plugins: [
